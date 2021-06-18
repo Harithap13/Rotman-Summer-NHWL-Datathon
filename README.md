@@ -1,10 +1,7 @@
 # Rotman-Summer-NWHL-Datathon
 ## NOTE: THIS GITHUB LINK WILL BE AVAILABLE ONLY TILL 24th JUNE FOR JUDGING PURPOSES. IT WILL BE IMMEDIATELY TAKEN DOWN AFTER THAT ACCORDING TO THE INTEGRITY AGGREEMENT.
 
-Summer 2021, 3-weeks datathon of Rotman School of Management and Stathletes for getting insights into NWHL players
-
-![NWHL_logo](https://user-images.githubusercontent.com/20098293/122596233-2e3f6100-d087-11eb-8343-1486d61c230c.png)
-
+<b>Summer 2021, 3-weeks datathon of Rotman School of Management and Stathletes for getting insights into NWHL players</b>
 
 
 ## Directories:
