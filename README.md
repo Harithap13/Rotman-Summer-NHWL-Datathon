@@ -1,5 +1,5 @@
 # Rotman-Summer-NWHL-Datathon
-## NOTE: THIS GITHUB LINK WAS MADE ACTIVE ON 18th June 2021. IT WILL BE AVAILABLE ONLY TILL 24th June 2021 FOR JUDGING PURPOSES. IT WILL BE IMMEDIATELY TAKEN DOWN AFTER THAT ACCORDING TO THE INTEGRITY AGGREEMENT.
+
 
 <b>Summer 2021, 3-weeks datathon of Rotman School of Management and Stathletes for getting insights into NWHL players</b>
 
@@ -38,7 +38,7 @@ Contains metrics files generated for all player statistics. Contributor: Whole t
 8. <b> rsd-nwhl-expected-goals.ipynb </b>: Main code for calculation xG% average for every player. Includes all models and visualizations. Contributor: Prakriti Ailavadi
 
 
-## NOTE: THIS GITHUB LINK WAS MADE ACTIVE ON 18th June 2021. IT WILL BE AVAILABLE ONLY TILL 24th June 2021 FOR JUDGING PURPOSES. IT WILL BE IMMEDIATELY TAKEN DOWN AFTER THAT ACCORDING TO THE INTEGRITY AGGREEMENT.
+## NOTE: THIS GITHUB LINK IS KEPT PRIVATE ACCORDING TO THE INTEGRITY AGGREEMENT.
 
 
 
