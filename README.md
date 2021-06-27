@@ -33,7 +33,7 @@ Contains metrics files generated for all player statistics. Contributor: Whole t
 3. <b> clustering-based-on-shot-distance.ipynb </b>: This code was used to group players into long and short distance goal scorers. Contributor: Yifeng Ye, Prakriti Ailavadi
 4. <b> goal_summary_yifeng.ipynb </b>: This code outputs file for goal percentile which was used in point 3 file. Contributor: Yifeng Ye
 5. <b> nhl-shot-distribution-2019-season.ipynb </b>: This code has been replicated from Kaggle for one of the NHL players. Just used as a reference code.
-6. <b> rsd-nhwl-exploration-and-visualization.ipynb </b>: Contains visualizations for goals and passes for different players.
+6. <b> rsd-nhwl-exploration-and-visualization.ipynb </b>: Contains visualizations for goals and passes for different players. Contributor: Prakriti Ailavadi
 7. <b> rsd-nhwl-understanding-data.ipynb </b>: Contains calculation of all metrics used in the case solution. Contributor: Prakriti Ailavadi
 8. <b> rsd-nwhl-expected-goals.ipynb </b>: Main code for calculation xG% average for every player. Includes all models and visualizations. Contributor: Prakriti Ailavadi
 
