@@ -38,8 +38,6 @@ Contains metrics files generated for all player statistics. Contributor: Whole t
 8. <b> rsd-nwhl-expected-goals.ipynb </b>: Main code for calculation xG% average for every player. Includes all models and visualizations. Contributor: Prakriti Ailavadi
 
 
-## NOTE: THIS GITHUB LINK IS KEPT PRIVATE ACCORDING TO THE INTEGRITY AGGREEMENT.
-
 
 
 
